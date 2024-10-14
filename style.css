@@ -1,0 +1,10 @@
+body {
+background-color: aqua;
+
+}
+
+
+
+.pertama > h1 {
+    color: red;
+}
