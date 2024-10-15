@@ -52,7 +52,6 @@ body {
     max-width: 860px;
     border-radius: 10px;
     height: 400px;
-    box-shadow: 20px;
     backdrop-filter: blur(10px);
 }
 
